@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QiangSi28
-- 👀 I’m interested in embedded system, CNC milling, C++.
+- 👀 I’m interested in embedded system, CNC milling, 3D printing.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at qiangsi001@gmail.com
